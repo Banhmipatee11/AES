@@ -10,6 +10,6 @@
 <br>
 <div align="center">
     <p align="center">
-        <img src="AES.jpg" alt="Web" width="170"/>
+        <img src="AES.jpg" alt="Web" />
     </p>
 </div>

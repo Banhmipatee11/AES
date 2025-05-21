@@ -1,5 +1,5 @@
 <h2 align="center">
-    <a href="image.png">
+    <a href="AES.jpg">
     🎓 Faculty of Information Technology (DaiNam University)
     </a>
 </h2>
@@ -10,6 +10,6 @@
 <br>
 <div align="center">
     <p align="center">
-        <img src="image.png" alt="Web" width="170"/>
+        <img src="AES.jpg" alt="Web" width="170"/>
     </p>
 </div>

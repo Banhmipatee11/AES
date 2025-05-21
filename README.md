@@ -1,6 +1,6 @@
 <h2 align="center">
     <a href="AES.jpg">
-    <img src="AES.jpg"> Faculty of Information Technology (DaiNam University)
+    <img src="logo.jpg" hight=25, witdh=25> Faculty of Information Technology (DaiNam University)
     </a>
 </h2>
 <br>
